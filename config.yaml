@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@quantum-edu.com
+      is_admin: true
+      name: Admin User
+      password: $2b$12$FmBFDH7jSH2sKcZ5F5fI/.ikoLRA1OKb587HbCTfwd3zy52lWgSau
+    demo:
+      email: demo@quantum-edu.com
+      is_admin: false
+      name: Demo User
+      password: $2b$12$HMU7lJV2hgi3SGNoxUzjTuxlWZakCnPUfUEB90nhjwM3v1rZEPIE2

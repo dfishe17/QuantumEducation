@@ -1,0 +1,16 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Qubit lines -->
+    <line x1="10" y1="25" x2="190" y2="25" stroke="black" stroke-width="2"/>
+    <line x1="10" y1="75" x2="190" y2="75" stroke="black" stroke-width="2"/>
+    
+    <!-- Gates -->
+    <rect x="40" y="10" width="30" height="30" fill="lightblue" stroke="black"/>
+    <text x="50" y="30" font-family="Arial" font-size="14" text-anchor="middle">H</text>
+    
+    <rect x="100" y="60" width="30" height="30" fill="lightblue" stroke="black"/>
+    <text x="115" y="80" font-family="Arial" font-size="14" text-anchor="middle">X</text>
+    
+    <!-- Control line -->
+    <line x1="115" y1="25" x2="115" y2="60" stroke="black" stroke-width="2"/>
+    <circle cx="115" cy="25" r="4" fill="black"/>
+</svg>
